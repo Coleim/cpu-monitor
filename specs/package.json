@@ -1,0 +1,16 @@
+{
+  "name": "cpu-monitor-specs",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node server/index.js",
+    "generate-api": "openapi-generator-cli generate -g typescript-axios -o ../client/src/_generated-api -i ./cpu.v1.yaml"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@openapitools/openapi-generator-cli": "^2.7.0"
+  }
+}

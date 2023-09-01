@@ -1,0 +1,178 @@
+[
+    {
+        "model": "11th Gen Intel(R) Core(TM) i7-11800H @ 2.30GHz",
+        "speed": 2304,
+        "times": {
+            "user": 2536171,
+            "nice": 0,
+            "sys": 10240640,
+            "idle": 502586750,
+            "irq": 801375
+        }
+    },
+    {
+        "model": "11th Gen Intel(R) Core(TM) i7-11800H @ 2.30GHz",
+        "speed": 2304,
+        "times": {
+            "user": 1299125,
+            "nice": 0,
+            "sys": 3244187,
+            "idle": 510820093,
+            "irq": 28921
+        }
+    },
+    {
+        "model": "11th Gen Intel(R) Core(TM) i7-11800H @ 2.30GHz",
+        "speed": 2304,
+        "times": {
+            "user": 4790859,
+            "nice": 0,
+            "sys": 4648187,
+            "idle": 505924265,
+            "irq": 35046
+        }
+    },
+    {
+        "model": "11th Gen Intel(R) Core(TM) i7-11800H @ 2.30GHz",
+        "speed": 2304,
+        "times": {
+            "user": 2724640,
+            "nice": 0,
+            "sys": 2608296,
+            "idle": 510030453,
+            "irq": 16796
+        }
+    },
+    {
+        "model": "11th Gen Intel(R) Core(TM) i7-11800H @ 2.30GHz",
+        "speed": 2304,
+        "times": {
+            "user": 2459812,
+            "nice": 0,
+            "sys": 3267593,
+            "idle": 509635906,
+            "irq": 28062
+        }
+    },
+    {
+        "model": "11th Gen Intel(R) Core(TM) i7-11800H @ 2.30GHz",
+        "speed": 2304,
+        "times": {
+            "user": 1735031,
+            "nice": 0,
+            "sys": 2117171,
+            "idle": 511511109,
+            "irq": 16375
+        }
+    },
+    {
+        "model": "11th Gen Intel(R) Core(TM) i7-11800H @ 2.30GHz",
+        "speed": 2304,
+        "times": {
+            "user": 2694250,
+            "nice": 0,
+            "sys": 3133562,
+            "idle": 509535500,
+            "irq": 32359
+        }
+    },
+    {
+        "model": "11th Gen Intel(R) Core(TM) i7-11800H @ 2.30GHz",
+        "speed": 2304,
+        "times": {
+            "user": 1931281,
+            "nice": 0,
+            "sys": 2085640,
+            "idle": 511346390,
+            "irq": 18859
+        }
+    },
+    {
+        "model": "11th Gen Intel(R) Core(TM) i7-11800H @ 2.30GHz",
+        "speed": 2304,
+        "times": {
+            "user": 2231984,
+            "nice": 0,
+            "sys": 2960171,
+            "idle": 510171140,
+            "irq": 27203
+        }
+    },
+    {
+        "model": "11th Gen Intel(R) Core(TM) i7-11800H @ 2.30GHz",
+        "speed": 2304,
+        "times": {
+            "user": 1591187,
+            "nice": 0,
+            "sys": 2089609,
+            "idle": 511682515,
+            "irq": 15765
+        }
+    },
+    {
+        "model": "11th Gen Intel(R) Core(TM) i7-11800H @ 2.30GHz",
+        "speed": 2304,
+        "times": {
+            "user": 2142421,
+            "nice": 0,
+            "sys": 3366109,
+            "idle": 509854843,
+            "irq": 25265
+        }
+    },
+    {
+        "model": "11th Gen Intel(R) Core(TM) i7-11800H @ 2.30GHz",
+        "speed": 2304,
+        "times": {
+            "user": 1586328,
+            "nice": 0,
+            "sys": 2284500,
+            "idle": 511492531,
+            "irq": 16234
+        }
+    },
+    {
+        "model": "11th Gen Intel(R) Core(TM) i7-11800H @ 2.30GHz",
+        "speed": 2304,
+        "times": {
+            "user": 2346609,
+            "nice": 0,
+            "sys": 4830093,
+            "idle": 508186562,
+            "irq": 36750
+        }
+    },
+    {
+        "model": "11th Gen Intel(R) Core(TM) i7-11800H @ 2.30GHz",
+        "speed": 2304,
+        "times": {
+            "user": 1686968,
+            "nice": 0,
+            "sys": 2666218,
+            "idle": 511010125,
+            "irq": 20546
+        }
+    },
+    {
+        "model": "11th Gen Intel(R) Core(TM) i7-11800H @ 2.30GHz",
+        "speed": 2304,
+        "times": {
+            "user": 2488015,
+            "nice": 0,
+            "sys": 3562000,
+            "idle": 509313250,
+            "irq": 31671
+        }
+    },
+    {
+        "model": "11th Gen Intel(R) Core(TM) i7-11800H @ 2.30GHz",
+        "speed": 2304,
+        "times": {
+            "user": 1620906,
+            "nice": 0,
+            "sys": 2048359,
+            "idle": 511693953,
+            "irq": 14312
+        }
+    }
+]

@@ -1,0 +1,38 @@
+openapi: 3.0.3
+info:
+  title: CPU USAGE API
+  version: 1.0.0
+servers:
+  - url: /api/v1
+paths:
+  /cpu:
+    get:
+      summary: Return CPU information
+      description: Return CPU information
+      operationId: getCpu
+      responses:
+        '200':
+          description: successful operation
+          content:
+            application/json:
+              schema:
+                type: array
+                items:
+                  $ref: '#/components/schemas/CPU'
+
+components:
+  schemas:
+    CPU:
+      type: object
+      properties:
+        id:
+          type: number
+          example: 2
+        model:
+          type: string
+          example: "11th Gen Intel(R) Core(TM) i7-11800H @ 2.30GHz"
+        usage:
+          type: integer
+          format: int32
+          example: 30
+      

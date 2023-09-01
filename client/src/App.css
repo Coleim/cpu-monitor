@@ -1,0 +1,31 @@
+.main-page {
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+}
+
+.monitor-panel {
+  width: 100%;
+  display: flex;
+  justify-content: space-around;
+  flex-wrap: wrap;
+}
+
+.alert-bar {
+  background-color: deeppink;
+  color: midnightblue;
+  width: 100%;
+  text-align: center;
+  justify-content: center;
+}
+
+.cpu-panel {
+  margin: 20px;
+  display: flex;
+  flex-grow: 1;
+  max-width: 80%;
+}
+
+.alert-panel {
+  flex-grow: 1;
+}
